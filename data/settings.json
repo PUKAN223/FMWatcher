@@ -1,0 +1,7 @@
+{
+  "webhookUrl": "http://localhost:8080/api/v1/webhooks/promptpay/0886844934",
+  "webhookApiKey": "",
+  "autoStart": false,
+  "pollingIntervalMs": 500,
+  "provider": "krungthai_connext"
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "linejs": {
+      "source": "evex-dev/linejs",
+      "sourceType": "github",
+      "skillPath": "skills/linejs/SKILL.md",
+      "computedHash": "78309322411ed446c6519bac507f8bdea85c45dcf132d33995eeee87ca0b2255"
+    }
+  }
+}
